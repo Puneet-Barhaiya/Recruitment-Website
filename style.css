@@ -20,8 +20,8 @@ text-decoration:none;
 }
 
 .hero{
-height:600px;
-background-image:url("hero.jpg");  /* CHANGE IMAGE HERE */
+height:600px; 
+background-image:url("images/recruitment-team.jpg"); /* CHANGE IMAGE HERE */
 background-size:cover;
 background-position:center;
 display:flex;
